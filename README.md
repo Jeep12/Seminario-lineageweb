@@ -1,6 +1,13 @@
 # LineageIIWeb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
+Cambiar proxy en el archivo proxy.conf.json por la ruta de su api en php(xampp)
+
+<a src="ApiL2">Api github</a>
+
+<h5>Config proxy </h5>
+
+
 
 ## Development server
 
