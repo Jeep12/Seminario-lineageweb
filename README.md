@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
 
-<a href="https://github.com/Jeep12/L2Api">Api L2 github</a>
+<a href="https://github.com/Jeep12/L2Api" target="_blank">Api L2 github</a>
 Install l2jmobiusclassic.sql
 
 <h5>Config proxy </h5>
