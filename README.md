@@ -1,12 +1,12 @@
 # LineageIIWeb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
-Cambiar proxy en el archivo proxy.conf.json por la ruta de su api en php(xampp)
 
-<a href="">Api github</a>
+<a href="https://github.com/Jeep12/L2Api">Api L2 github</a>
+Install l2jmobiusclassic.sql
 
 <h5>Config proxy </h5>
-
+Cambiar proxy en el archivo proxy.conf.json por la ruta de su api en php(xampp)
 
 
 ## Development server
